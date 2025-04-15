@@ -5,6 +5,10 @@ This is a repo detailing analysis done for a 20.440 Spring 2025 final. Read belo
 ## For PS6:
 1. The repo is mainly organized in two folders: data and code.
 
+2. Data contains only 1 .h5ad file. 
+
+3. Code contains only 1 R script. 
+
 ### Data: 
 Data was obtained from [Synapse](https://www.synapse.org/Synapse:syn53641849) under accession code syn53641849. [1]
 
