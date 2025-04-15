@@ -13,6 +13,9 @@ This file contains scRNAseq data from PBMCs of 46 Type 1 Diabetes patients and 3
 Count matrix is provided in the repo due to the full file being too large to upload to GitHub. 
 
 ### Code: 
+
+Below is a running list of scripts included in the code folder: 
+
 #### PCAloadings.R
 The following packages are required to run:
  - Seurat (5.2.1)
@@ -21,6 +24,8 @@ The following packages are required to run:
 
 ### Installation: 
 The R script(s) provided run(s) on R (4.3.3) in R-studio (2024.12.1+563) 
+
+See code section for specific packages required in each script. 
 
 ### Citations: 
  [1] Honardoost, M.A., Adinatha, A., Schmidt, F. et al. Systematic immune cell dysregulation and molecular subtypes revealed by single-cell RNA-seq of subjects with type 1 diabetes. Genome Med 16, 45 (2024). https://doi.org/10.1186/s13073-024-01300-z
