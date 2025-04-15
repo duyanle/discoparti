@@ -6,6 +6,7 @@ library(tidyverse)
 data <- schard::h5ad2seurat(paste(getwd(),'/data/pbmc_ct0.60_noribo.h5ad', sep=""))
 
 # subset the cells you want to analyze (from cell_type_0.60 metadata label)
+# here the example uses "CD16+ monocytes"
 ss <- subset(data, subset = cell_type_0.60 %in% c("CD16+ monocytes"))
 
 # preprocess is a function that preprocesses the raw count matrix from Seurat.
