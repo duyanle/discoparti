@@ -16,7 +16,7 @@ Count matrix is provided in the repo due to the full file being too large to upl
 
 Below is a running list of scripts included in the code folder: 
 
-#### PCAloadings.R
+#### 1. PCAloadings.R
 The following packages are required to run:
  - Seurat (5.2.1)
  - tidyverse (2.0.0)
